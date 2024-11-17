@@ -1,2 +1,2 @@
-- 🌱 I’m currently learning to be a MERN developer!
-
+- 🌱 in while learning to be a fullstack developer
+- ❤️ MERN stack (MongoDB, Express, React, Node.js)
